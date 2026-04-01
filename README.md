@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=26&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=620&lines=Hítalon+Saimon;Full+Stack+Developer;Software+Engineering+Student;Backend+%7C+Frontend+%7C+Embedded" alt="Typing SVG" />
+# Hítalon Saimon
+
+**Full Stack Developer · Software Engineering Student**
+
+`Backend` `Frontend` `Embedded`
 
 <br/>
 
-[![Location](https://img.shields.io/badge/Feira_de_Santana,_BA-black?style=flat&logo=googlemaps&logoColor=white)](https://github.com/H-Saimon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitalon-saimon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=safari&logoColor=white)](https://HSaimon.github.io)
+[![Location](https://img.shields.io/badge/📍_Feira_de_Santana,_BA-111111?style=flat-square)](https://github.com/H-Saimon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitalon-saimon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=githubpages&logoColor=white)](https://HSaimon.github.io)
 
 </div>
 
@@ -67,15 +71,13 @@ Experiência profissional como **Instrutor e Operador de Suporte de Alto Valor**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HSaimon&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=888888&bg_color=ffffff00&include_all_commits=true&count_private=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSaimon&layout=compact&langs_count=7&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff00&cache_seconds=1800" />
+<img height="165" src="https://streak-stats.demolab.com?user=HSaimon&hide_border=true&background=00000000&stroke=444444&ring=6E6E6E&fire=6E6E6E&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=888888&sideLabels=888888&dates=666666" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HSaimon&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff00&stroke=555555&ring=111111&fire=888888&currStreakNum=111111&sideNums=555555&currStreakLabel=111111&sideLabels=555555&dates=888888" height="150" />
+[![HSaimon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HSaimon&bg_color=00000000&color=888888&line=555555&point=aaaaaa&area=true&hide_border=true)](https://github.com/HSaimon)
 
 </div>
 
