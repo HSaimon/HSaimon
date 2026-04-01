@@ -37,15 +37,20 @@ Foco em backend, frontend e sistemas embarcados — de APIs REST com Spring Boot
 <p>
   <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031" />
   <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" />
 </p>
 
-### Backend
+### Backend & Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=FFCA28" />
 </p>
 
 ### Database
@@ -54,13 +59,16 @@ Foco em backend, frontend e sistemas embarcados — de APIs REST com Spring Boot
   <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=FF4438" />
 </p>
 
 ### Tools & Infra
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
