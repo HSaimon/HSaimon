@@ -67,9 +67,15 @@ Experiência profissional como **Instrutor e Operador de Suporte de Alto Valor**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HSaimon&show_icons=true&theme=default&hide_border=true&title_color=111111&text_color=555555&icon_color=888888&bg_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HSaimon&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=888888&bg_color=ffffff00&include_all_commits=true&count_private=true&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSaimon&layout=compact&langs_count=7&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSaimon&layout=compact&langs_count=7&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff00&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HSaimon&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff00&stroke=555555&ring=111111&fire=888888&currStreakNum=111111&sideNums=555555&currStreakLabel=111111&sideLabels=555555&dates=888888" height="150" />
 
 </div>
 
